@@ -1,0 +1,57 @@
+[0.132s] Invoking command in '/home/rahulravikumar/rover_ws/build/rover': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rahulravikumar/ros2_ws/install/my_py_pkg:/home/rahulravikumar/ros2_ws/install/exam_invigilation:/opt/ros/humble /usr/bin/cmake --build /home/rahulravikumar/rover_ws/build/rover -- -j4 -l4
+[0.306s] Built target ament_cmake_python_copy_rover
+[0.789s] running egg_info
+[0.790s] writing rover.egg-info/PKG-INFO
+[0.792s] writing dependency_links to rover.egg-info/dependency_links.txt
+[0.792s] writing top-level names to rover.egg-info/top_level.txt
+[0.799s] reading manifest file 'rover.egg-info/SOURCES.txt'
+[0.799s] writing manifest file 'rover.egg-info/SOURCES.txt'
+[0.860s] Built target ament_cmake_python_build_rover_egg
+[0.907s] Invoked command in '/home/rahulravikumar/rover_ws/build/rover' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rahulravikumar/ros2_ws/install/my_py_pkg:/home/rahulravikumar/ros2_ws/install/exam_invigilation:/opt/ros/humble /usr/bin/cmake --build /home/rahulravikumar/rover_ws/build/rover -- -j4 -l4
+[1.140s] Invoking command in '/home/rahulravikumar/rover_ws/build/rover': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rahulravikumar/ros2_ws/install/my_py_pkg:/home/rahulravikumar/ros2_ws/install/exam_invigilation:/opt/ros/humble /usr/bin/cmake --install /home/rahulravikumar/rover_ws/build/rover
+[1.156s] -- Install configuration: ""
+[1.156s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/environment/pythonpath.sh
+[1.158s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/environment/pythonpath.dsv
+[1.159s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover-0.0.0-py3.10.egg-info
+[1.159s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover-0.0.0-py3.10.egg-info/top_level.txt
+[1.160s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover-0.0.0-py3.10.egg-info/PKG-INFO
+[1.160s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.160s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.160s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover
+[1.160s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover/brain.py
+[1.160s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover/__init__.py
+[1.160s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover/controller.py
+[1.264s] Listing '/home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover'...
+[1.273s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/lib/rover/controller.py
+[1.273s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/launch
+[1.273s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/launch/rsp.launch.py
+[1.273s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/launch/launch_sim.launch.py
+[1.273s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/config
+[1.273s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/config/my_controller.yaml
+[1.274s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/config/gazebo_params.yaml
+[1.274s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/config/empty.yaml
+[1.274s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/config/twist_mux.yaml
+[1.274s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/description
+[1.274s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/description/robot_core.xacro
+[1.275s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/description/ros2_control.xacro
+[1.275s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/description/robot.urdf.xacro
+[1.275s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/description/inertial_macros.xacro
+[1.275s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/worlds
+[1.276s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/worlds/obstacles.world
+[1.276s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/worlds/empty.world
+[1.276s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/ament_index/resource_index/package_run_dependencies/rover
+[1.276s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/ament_index/resource_index/parent_prefix_path/rover
+[1.283s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/environment/ament_prefix_path.sh
+[1.285s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/environment/ament_prefix_path.dsv
+[1.288s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/environment/path.sh
+[1.289s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/environment/path.dsv
+[1.289s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/local_setup.bash
+[1.293s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/local_setup.sh
+[1.294s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/local_setup.zsh
+[1.294s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/local_setup.dsv
+[1.294s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/package.dsv
+[1.295s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/ament_index/resource_index/packages/rover
+[1.295s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/cmake/roverConfig.cmake
+[1.296s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/cmake/roverConfig-version.cmake
+[1.296s] -- Up-to-date: /home/rahulravikumar/rover_ws/install/rover/share/rover/package.xml
+[1.297s] Invoked command in '/home/rahulravikumar/rover_ws/build/rover' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rahulravikumar/ros2_ws/install/my_py_pkg:/home/rahulravikumar/ros2_ws/install/exam_invigilation:/opt/ros/humble /usr/bin/cmake --install /home/rahulravikumar/rover_ws/build/rover

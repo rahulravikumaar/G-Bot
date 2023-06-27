@@ -1,0 +1,86 @@
+[0.082s] Invoking command in '/home/rahulravikumar/rover_ws/build/rover': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rahulravikumar/ros2_ws/install/my_py_pkg:/home/rahulravikumar/ros2_ws/install/exam_invigilation:/opt/ros/humble /usr/bin/cmake /home/rahulravikumar/rover_ws/src/rover -DCMAKE_INSTALL_PREFIX=/home/rahulravikumar/rover_ws/install/rover
+[0.609s] -- The C compiler identification is GNU 11.3.0
+[0.942s] -- The CXX compiler identification is GNU 11.3.0
+[1.001s] -- Detecting C compiler ABI info
+[1.204s] -- Detecting C compiler ABI info - done
+[1.211s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.215s] -- Detecting C compile features
+[1.216s] -- Detecting C compile features - done
+[1.223s] -- Detecting CXX compiler ABI info
+[1.400s] -- Detecting CXX compiler ABI info - done
+[1.413s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.414s] -- Detecting CXX compile features
+[1.415s] -- Detecting CXX compile features - done
+[1.434s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.764s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[2.054s] -- Found ament_lint_auto: 0.12.5 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.286s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.289s] -- Added test 'lint_cmake' to check CMake code style
+[2.292s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.302s] -- Added test 'xmllint' to check XML markup files
+[2.316s] -- Configuring done
+[2.317s] -- Generating done
+[2.317s] -- Build files have been written to: /home/rahulravikumar/rover_ws/build/rover
+[2.358s] Invoked command in '/home/rahulravikumar/rover_ws/build/rover' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rahulravikumar/ros2_ws/install/my_py_pkg:/home/rahulravikumar/ros2_ws/install/exam_invigilation:/opt/ros/humble /usr/bin/cmake /home/rahulravikumar/rover_ws/src/rover -DCMAKE_INSTALL_PREFIX=/home/rahulravikumar/rover_ws/install/rover
+[2.363s] Invoking command in '/home/rahulravikumar/rover_ws/build/rover': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rahulravikumar/ros2_ws/install/my_py_pkg:/home/rahulravikumar/ros2_ws/install/exam_invigilation:/opt/ros/humble /usr/bin/cmake --build /home/rahulravikumar/rover_ws/build/rover -- -j4 -l4
+[2.598s] Built target ament_cmake_python_copy_rover
+[3.188s] running egg_info
+[3.189s] creating rover.egg-info
+[3.189s] writing rover.egg-info/PKG-INFO
+[3.189s] writing dependency_links to rover.egg-info/dependency_links.txt
+[3.190s] writing top-level names to rover.egg-info/top_level.txt
+[3.190s] writing manifest file 'rover.egg-info/SOURCES.txt'
+[3.195s] reading manifest file 'rover.egg-info/SOURCES.txt'
+[3.196s] writing manifest file 'rover.egg-info/SOURCES.txt'
+[3.250s] Built target ament_cmake_python_build_rover_egg
+[3.308s] Invoked command in '/home/rahulravikumar/rover_ws/build/rover' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rahulravikumar/ros2_ws/install/my_py_pkg:/home/rahulravikumar/ros2_ws/install/exam_invigilation:/opt/ros/humble /usr/bin/cmake --build /home/rahulravikumar/rover_ws/build/rover -- -j4 -l4
+[3.479s] Invoking command in '/home/rahulravikumar/rover_ws/build/rover': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rahulravikumar/ros2_ws/install/my_py_pkg:/home/rahulravikumar/ros2_ws/install/exam_invigilation:/opt/ros/humble /usr/bin/cmake --install /home/rahulravikumar/rover_ws/build/rover
+[3.510s] -- Install configuration: ""
+[3.512s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/environment/pythonpath.sh
+[3.513s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/environment/pythonpath.dsv
+[3.514s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover-0.0.0-py3.10.egg-info
+[3.514s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover-0.0.0-py3.10.egg-info/top_level.txt
+[3.515s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover-0.0.0-py3.10.egg-info/PKG-INFO
+[3.515s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover-0.0.0-py3.10.egg-info/dependency_links.txt
+[3.515s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover-0.0.0-py3.10.egg-info/SOURCES.txt
+[3.516s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover
+[3.516s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover/brain.py
+[3.517s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover/__init__.py
+[3.517s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover/controller.py
+[3.619s] Listing '/home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover'...
+[3.622s] Compiling '/home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover/__init__.py'...
+[3.622s] Compiling '/home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover/brain.py'...
+[3.622s] Compiling '/home/rahulravikumar/rover_ws/install/rover/local/lib/python3.10/dist-packages/rover/controller.py'...
+[3.625s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/lib/rover/controller.py
+[3.625s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/launch
+[3.625s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/launch/rsp.launch.py
+[3.626s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/launch/launch_sim.launch.py
+[3.627s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/config
+[3.627s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/config/my_controller.yaml
+[3.627s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/config/gazebo_params.yaml
+[3.628s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/config/empty.yaml
+[3.629s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/config/twist_mux.yaml
+[3.630s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/description
+[3.630s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/description/robot_core.xacro
+[3.631s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/description/ros2_control.xacro
+[3.632s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/description/robot.urdf.xacro
+[3.633s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/description/inertial_macros.xacro
+[3.634s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/worlds
+[3.635s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/worlds/obstacles.world
+[3.635s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/worlds/empty.world
+[3.636s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/ament_index/resource_index/package_run_dependencies/rover
+[3.638s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/ament_index/resource_index/parent_prefix_path/rover
+[3.638s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/environment/ament_prefix_path.sh
+[3.639s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/environment/ament_prefix_path.dsv
+[3.641s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/environment/path.sh
+[3.641s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/environment/path.dsv
+[3.641s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/local_setup.bash
+[3.641s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/local_setup.sh
+[3.642s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/local_setup.zsh
+[3.642s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/local_setup.dsv
+[3.642s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/package.dsv
+[3.642s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/ament_index/resource_index/packages/rover
+[3.642s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/cmake/roverConfig.cmake
+[3.642s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/cmake/roverConfig-version.cmake
+[3.642s] -- Installing: /home/rahulravikumar/rover_ws/install/rover/share/rover/package.xml
+[3.648s] Invoked command in '/home/rahulravikumar/rover_ws/build/rover' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rahulravikumar/ros2_ws/install/my_py_pkg:/home/rahulravikumar/ros2_ws/install/exam_invigilation:/opt/ros/humble /usr/bin/cmake --install /home/rahulravikumar/rover_ws/build/rover
