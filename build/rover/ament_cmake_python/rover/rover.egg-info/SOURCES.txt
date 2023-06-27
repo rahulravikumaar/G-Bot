@@ -1,0 +1,8 @@
+setup.py
+rover/__init__.py
+rover/brain.py
+rover/controller.py
+rover.egg-info/PKG-INFO
+rover.egg-info/SOURCES.txt
+rover.egg-info/dependency_links.txt
+rover.egg-info/top_level.txt
